@@ -1,0 +1,8 @@
+[package]
+name = "char-set"
+version = "0.1.0"
+authors = ["Alex Moon <alex.r.moon@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+range-set = { git = "https://github.com/alexmoon/range-set" }
